@@ -3,7 +3,7 @@
 **Neer-Nirikshan** is an intelligent road safety solution developed for the **Innovate Bharat Hackathon 2026**. It leverages Computer Vision to detect road hazards—specifically potholes and waterlogging—to assist municipal authorities in proactive infrastructure maintenance.
 
 ## Live Demo
-**[View the Live Web App](YOUR_STREAMLIT_URL_HERE)**
+**[View the Live Web App](https://neernirikshanhackathonproject-rgrhp6neunnhhjcsrf5mqj.streamlit.app/)**
 
 --------------------------------------------------------------------------------------------------------------
 
