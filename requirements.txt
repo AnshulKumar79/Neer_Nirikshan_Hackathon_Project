@@ -1,6 +1,7 @@
-streamlit
+fastapi
+uvicorn
+pydantic
 ultralytics
 onnxruntime
 opencv-python-headless
-numpy
 Pillow
